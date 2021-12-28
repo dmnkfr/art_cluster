@@ -1,2 +1,3 @@
-# sunset_cluster
-color quantisation with k-means clustering
+### Sunset Cluster
+
+Using k-means clustering to quantise the colors of a sunset.
